@@ -1,2 +1,2 @@
 # hello-world
-A test to learn how to create repositories
+The classic project. Here used to learn how to use github
